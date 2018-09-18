@@ -1,7 +1,9 @@
 .project
 .idea
+.nyc_output
 
 samples
 node_modules
 npm-debug.log
 tests
+coverage
